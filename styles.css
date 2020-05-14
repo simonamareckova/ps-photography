@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+}
+.bg-image {
+    background-image: url('img/Turkey.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+}
